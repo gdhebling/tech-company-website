@@ -1,7 +1,7 @@
 ﻿# Tech Company Website
 
 ## The project
-Website developed using Tailwind CSS (CSS Framework).
+Clean and modern website developed using Tailwind CSS (CSS Framework).
 The inspiration for the design comes from tech-related startups and companies.
 <br /><br />
 <a href="https://gdhebling.github.io/tech-company-website" alt="Website Screenshot">![Website Screenshot](img/tech-website-screenshot.png)</a>
